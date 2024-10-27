@@ -1,0 +1,4 @@
+name: CheeseShield
+version: '${project.version}'
+author: cheesemaster
+main: me.cheesemaster.cheeseshield.CheeseShield
